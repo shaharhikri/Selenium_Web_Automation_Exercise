@@ -1,0 +1,24 @@
+{ 	
+	"webDriverName":"webdriver.chrome.driver",
+	"webDriverPath":"C:\\MyDrive\\לימודים\\שנה ג'\\semesterB\\QA\\chromedriver.exe",
+	"url":"https://www.demoblaze.com/",
+	
+	"loginStep1.userName":"admin",
+	"loginStep1.pass":"admin",
+	
+	"loginStep4.userName": "AlexTurner",
+	"loginStep4.pass": "365",
+	
+	"contactStep1.recipient-email": "shaharhikri@gmail.com",
+	"contactStep1.recipient-name": "Shahar",
+	"contactStep1.message-text": "Hey",
+	
+	"orderStep1.name": "AlexTurner",
+	"orderStep1.country": "Germany",
+	"orderStep1.city": "Berlin",
+	"orderStep1.card": "88888888888888888",
+	"orderStep1.month": "03",
+	"orderStep1.year": "1994",
+	
+	"orderSubStepAddToCart.productName": "Samsung galaxy s6"
+}
