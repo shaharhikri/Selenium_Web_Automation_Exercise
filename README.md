@@ -23,3 +23,5 @@ For importing the jar files into the project and the these steps below:
 Web driver:
 * Rename the driver and its path - change the parameters at the beginning of the input.json file.
 * the web driver must fit to the web explorer that you run the tests with.
+
+..
